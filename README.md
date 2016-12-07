@@ -78,6 +78,7 @@ My curated list of resources for learning Android Development.
 * [DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 * [MCE^3 - Gregory Kick - Dagger 2 (2016)](https://www.youtube.com/watch?v=iwjXqRlEevg)
+* [Understanding Dagger 2's Generated Code by Ron Shapiro & David P. Baker](https://www.youtube.com/watch?v=wCvXe2LsN5o)
 
 # Android UI
 * [Exploring the new Android Design Support Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32#.8eqqvdxyv)
