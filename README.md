@@ -61,6 +61,7 @@ My curated list of resources for learning Android Development.
 * [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
 * [Learn you some Rx for the greater good](https://www.youtube.com/watch?v=BujWQSjtplc)
 * [Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4)
+* [Learning Rx by example](https://vimeo.com/190922794) (Newer!)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/?utm_source=Android+Weekly&utm_campaign=553bcbfc02-Android_Weekly_174&utm_medium=email&utm_term=0_4eb677ad19-553bcbfc02-337974733)
 * [Get Reactive](https://speakerdeck.com/passsy/get-reactive?utm_source=Android+Weekly&utm_campaign=8b4ba9e51d-Android_Weekly_177&utm_medium=email&utm_term=0_4eb677ad19-8b4ba9e51d-337974733)
 
