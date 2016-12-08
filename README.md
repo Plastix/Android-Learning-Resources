@@ -34,13 +34,17 @@ My curated list of resources for learning Android Development.
 
 
 # Specific Topics
-# MVP Architecture 
+# Application Architecture 
 * [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 * [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.ra45fxasy)
 * [Refactoring Plaid App - A Reactive MVP Approach (Part 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)
 * [Android MVP, Retrofit & Rx](http://appfoundry.be/blog/2015/09/14/mvprx/)
+
+### Architecture Talks
+* [What I learnt using the Presenter pattern](https://vimeo.com/191068122)
+* [Droidcon NYC 2016 - A Journey Through MV Wonderland](https://www.youtube.com/watch?v=QrbhPcbZv0I)
 
 # Functional Reactive Programming
 * [ReactiveX Official Documentation](http://reactivex.io/)
@@ -64,6 +68,7 @@ My curated list of resources for learning Android Development.
 * [Learning Rx by example](https://vimeo.com/190922794) (Newer!)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/?utm_source=Android+Weekly&utm_campaign=553bcbfc02-Android_Weekly_174&utm_medium=email&utm_term=0_4eb677ad19-553bcbfc02-337974733)
 * [Get Reactive](https://speakerdeck.com/passsy/get-reactive?utm_source=Android+Weekly&utm_campaign=8b4ba9e51d-Android_Weekly_177&utm_medium=email&utm_term=0_4eb677ad19-8b4ba9e51d-337974733)
+* [GOTO 2016 • Exploring RxJava 2 for Android • Jake Wharton](https://www.youtube.com/watch?v=htIXKI5gOQU)
 
 # Dependency Injection
 * [Dagger 2 Official Documentation](http://google.github.io/dagger/)
@@ -113,13 +118,17 @@ My curated list of resources for learning Android Development.
 * https://github.com/ccrama/Slide
 * https://github.com/lgvalle/Material-Animations
 
-# Android Performance
+### Android Performance
 * [Android Performance Patterns - Android Developers Youtube Channel](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
 * [Analyzing UI Performance with Systrace](http://developer.android.com/tools/debugging/systrace.html)
 * [Simplify Complex View Hierarchies](https://medium.com/google-developers/simplify-complex-view-hierarchies-5d358618b06f#.ew2jwh770)
 * [Fixing Memory Leaks in Android – OutOfMemoryError](http://riggaroo.co.za/fixing-memory-leaks-in-android-outofmemoryerror/?utm_source=Android+Weekly&utm_campaign=ef86743f54-Android_Weekly_190&utm_medium=email&utm_term=0_4eb677ad19-ef86743f54-33797473)
+* [GOTO 2016 • LeakCanary, then what? Nuking Nasty Memory Leaks • Pierre-Yves Ricau](https://www.youtube.com/watch?v=7A7Uv9ZBE2U)
 * [Detect and Resolve Performance Problems on Android](http://code.tutsplus.com/tutorials/detect-and-resolve-performance-problems-on-android--cms-24058)
+
+### Android Internals
+* [Droidcon NYC 2016 - How LayoutInflater works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
 
 # Android Books 
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/we-write/android-programming/)
@@ -129,6 +138,7 @@ My curated list of resources for learning Android Development.
 * [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
 * [Droidcon NYC 2015 Talks](https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi)
 * [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
+* [Droidcon NYC 2016 - Decoding the Secrets of Binary Data](https://www.youtube.com/watch?v=T_p22jMZSrk)
 
 # General Programming
 * [Better Java](https://github.com/cxxr/better-java)
