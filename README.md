@@ -16,7 +16,7 @@ My curated list of resources for learning Android Development.
 * [Fernando Cejas' Blog](http://fernandocejas.com/)
 * [Artem Zinnatullin's Blog](https://artemzin.com/blog/)
 * [Hannes Dorfman's Blog](http://hannesdorfmann.com/)
-* [Konstantin Mikheev's Blog](https://github.com/konmik/konmik.github.io/wiki)
+* [Konstantin Mikheev's Blog](http://konmik.com/)
 * [Dan Lew's Blog](http://blog.danlew.net/)
 * [Antonio Levia's Blog](http://antonioleiva.com/)
 * [Chris Bane's Blog](http://chris.banes.me/)
