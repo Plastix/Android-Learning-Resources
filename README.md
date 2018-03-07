@@ -1,5 +1,5 @@
 # Android-Learning-Resources
-My curated list of resources for learning Android Development. 
+My curated list of resources for learning Android Development.
 
 # General Android Reference
 * [Google’s Android Developer Reference](http://developer.android.com/develop/index.html)
@@ -34,13 +34,14 @@ My curated list of resources for learning Android Development.
 
 
 # Specific Topics
-# Application Architecture 
+# Application Architecture
 * [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 * [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.ra45fxasy)
 * [Refactoring Plaid App - A Reactive MVP Approach (Part 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)
 * [Android MVP, Retrofit & Rx](http://appfoundry.be/blog/2015/09/14/mvprx/)
+* [Clean Architecture, MVC, MVP, MVVM notes](https://github.com/jemshit/android_architecture_notes)
 
 ### Architecture Talks
 * [What I learnt using the Presenter pattern](https://vimeo.com/191068122)
@@ -130,7 +131,7 @@ My curated list of resources for learning Android Development.
 ### Android Internals
 * [Droidcon NYC 2016 - How LayoutInflater works](https://www.youtube.com/watch?v=Y06wmVIFlsw)
 
-# Android Books 
+# Android Books
 * [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/we-write/android-programming/)
 * [Head First Android Development](http://shop.oreilly.com/product/0636920029045.do)
 
